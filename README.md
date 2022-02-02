@@ -35,7 +35,7 @@ Smoking|	If the patient smokes|	Boolean	|0, 1
 Time|	Follow-up period|	Days|	[4,...,285]
 DEATH EVENT<br>(TARGET)|	If the patient died during the follow-up period|	Boolean|	0, 1
 
-**NOTE: mcg/L: micrograms per liter. mL: microliter. mEq/L: milliequivalents per litre**
+**NOTE: mcg/L: microgr liter. mL: microliter. mEq/L: milliequivalents per litre**
  
  ### References
  
